@@ -1,0 +1,4 @@
+Python 3.7+
+Numpy: for faster processing
+Pandas: for extracting csv data and removing nan
+Matplotlib: for plotting graph

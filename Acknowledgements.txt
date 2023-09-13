@@ -1,0 +1,5 @@
+Datasets:
+Salary data: https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer
+
+
+#This dataset is only for study purposes and is not real. 
